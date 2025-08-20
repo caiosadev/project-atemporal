@@ -1,3 +1,7 @@
+![Apresentação do Projeto](https://github.com/augustoscaio/project-atemporal/raw/main/img_apresentacao_atemporal.png)
+
+---
+
 # 📄 Projeto de Inclusão Digital – Studio Atemporal
 
 ## 1. Visão Geral do Projeto
