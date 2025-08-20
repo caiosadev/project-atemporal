@@ -1,4 +1,4 @@
-![Apresentação do Projeto](https://github.com/augustoscaio/project-atemporal/raw/main/img_apresentacao_atemporal.png)
+![Apresentação do Projeto](https://github.com/caiosadev/project-atemporal/blob/main/img_apresentacao_atemporal.png)
 
 ---
 
